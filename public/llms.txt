@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+נונה עוגות מעוצבות מביאה לכם עיצובי עוגות ייחודיים ומרהיבים בעבודת יד. כל עוגה היא יצירת אומנות אישית שתהפוך את האירוע שלכם לבלתי נשכח. הזמינו עכשיו!
+
+### עוגות מעוצבות
+https://example.com/custom-cakes
+עוגות מעוצבות בהזמנה אישית לכל אירוע - חתונות, ימי הולדת, ואירועים מיוחדים. עיצוב ייחודי, טעם מושלם ומלאכת יד מקצועית. גלי את הקולקציה ותתחילי לתכנן!
+
+### סדנאות
+https://example.com/workshops
+הצטרפי לסדנאות עיצוב עוגות מקצועיות ולמדי את סודות המלאכה! חוויה יצירתית, אווירה נשית וטכניקות מתקדמות בהדרכה אישית. מקומות מוגבלים - הירשמי היום!
+
+### צור קשר
+https://example.com/contact
+מוכנה להפוך את החלום שלך למציאות? צרי קשר עכשיו להזמנת עוגה מעוצבת אישית, פרטים על סדנאות או ייעוץ מקצועי. נשמח ללוות אותך בכל שלב ולהפתיע את האורחים!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
